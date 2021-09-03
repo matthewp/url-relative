@@ -3,7 +3,7 @@
 Create relative paths from two URLs.
 
 ```js
-import { relative } from 'https://cdn.spooky.click/url-relative/0.0.1/mod.ts';
+import { relative } from 'https://cdn.spooky.click/url-relative/1.0.0/mod.ts';
 
 console.log(relative(
   new URL('http://example.com/a/b/c/d'),
